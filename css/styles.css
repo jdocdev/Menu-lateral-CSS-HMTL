@@ -75,10 +75,8 @@ html {
     height: 200px;
     top: 85%;
     left: 50%;
-    margin-top: -100px; /* Negative half of height. */
-    margin-left: -250px; /* Negative half of width. */
-
-    
+    margin-top: -100px;
+    margin-left: -250px;    
   }
   
   .footer a{
